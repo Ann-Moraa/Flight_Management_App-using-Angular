@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # FlightManagementAppAngular
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
@@ -25,3 +26,7 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 ## Further help
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
+=======
+# Flight_Management_App-using-Angular
+This is a simple Angular App with a Login and Component Dashboard that displays all the flights arriving and departing from all airports..
+>>>>>>> b30a2edff413aed0c7eaad94734123314b5074f0
