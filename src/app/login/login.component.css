@@ -1,0 +1,21 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+.container {
+    margin: auto;
+    margin-top: 70px;
+    max-width: 400px;
+  }
+  
+  .form-group {
+    margin-bottom: 10px;
+  }
+  
+  .btn-primary {
+    width: 90px;
+  }
+  
