@@ -1,6 +1,6 @@
 # FlightManagementAppAngular
 This is a simple Angular App with a Login and Component Dashboard that displays all the flights arriving and departing from all airports..
-This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1.
+This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.1. You can view the app: https://ann-moraa-flight-app-angular.netlify.app/login
 
 ## Development server
 
